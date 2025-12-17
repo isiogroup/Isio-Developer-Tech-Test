@@ -17,13 +17,13 @@ Download or Fork the code in this repository and complete the test using your pr
 For each language, there is a unit test file and an example simulation program to help get you started.
 
 When your solution is ready, send us the link to your submission (e.g. public Github repository or similar). 
-Don't forget to include instructions on how to run your solution, especially if you have introduced any new frameworks.
+Don't forget to include any additional instructions on how to build or run your solution, especially if you have introduced any new frameworks.
 
 ⚠️ Please do not submit PRs with test solutions directly against this source repository! They will be rejected.
 
 As the task is refactoring based, a solution is widley open to developer interpretation and offers the opportunity for a candidate to showcase their broader skillset. 
 
-There is no *correct* solution as such. Instead, you may be invited to justify your solution based on your approach and the technical design decisions you have made.
+There is no *correct* solution as such. Instead, you may be invited to justify your solution based on your approach and the technical design decisions you have made. You are welcome to include a new README file with your submission to assist with justification of your work.
 
 Feel free to go above and beyond the initial requirements specification if desired. For example, you may think of an additional requirement and illustrate how your refactored code allows you to implement this efficiently.
 
@@ -60,6 +60,23 @@ We have recently signed a supplier of conjured items. This requires an update to
 
 Feel free to make any changes to the `UpdateQuality` method and add any new code as long as everything
 still works correctly. However, you must __NOT__ alter the `Item` class or any of its properties.
+
+## Submission Review
+We are looking for candidates to successfully demonstrate the following criteria to be progressed to the stage in our application process:
+1. Have shown an understanding and appreciation for the rules of the test
+2. Solution compiles and/or runs on all assessor machines (using any additional and reasonable instructions provided) 
+3. Have successfully implemented the new feature request
+4. Demonstrated a clear attempt at code refactoring
+5. Demonstrated a clear understanding of software testing
+6. Solution contains few or zero bugs
+7. Solution does NOT contain evidence of over-reliance on AI (please refrain from doing this, we are looking to assess your own skills and potential. Submissions that show over-reliance on AI will not be progressed) 
+8. Solution does NOT contain signs of private, plagiarised, inappropriate or malicious material
+9. Demonstrated technical capability in their submission, assessed through the following areas:
+	1. Readability
+	2. Maintainability
+	3. Complexity
+	4. Performance 
+	5. Any documented design decision justifications
 
 
 ## Credits
